@@ -1,6 +1,6 @@
 # Description
 
-A script for generating condenser aperture designs for transmission electron microscopy (TEM)
+A script for generating condenser aperture plate designs with square and rectangular apertures for transmission electron microscopy (TEM)
 
 ![](Demonstration.png)
 
